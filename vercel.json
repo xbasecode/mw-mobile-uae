@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/config_en.json",
+      "permanent": false
+    }
+  ]
+}
