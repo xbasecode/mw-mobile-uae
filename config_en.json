@@ -877,12 +877,38 @@
     },
     "hero": {
       "enabled": true,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0770/3068/6942/files/16.02.25_MISSWHENCE3753.jpg?v=1765438155",
-      "monochrome": true,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0770/3068/6942/files/mw_3_de8e4b8b-e8dd-4d37-8e8e-203bf2184258.webp?v=1782927995",
+      "monochrome": false,
       "eyebrow": "MISSWHENCE UAE",
-      "title": "The art\nof presence.",
-      "buttonText": "Discover the collection",
-      "collectionId": "gid://shopify/Collection/461272547550"
+      "title": "The new\nseason.",
+      "buttonText": "Explore",
+      "collectionId": "gid://shopify/Collection/461272547550",
+      "slides": [
+        {
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0770/3068/6942/files/mw_3_de8e4b8b-e8dd-4d37-8e8e-203bf2184258.webp?v=1782927995",
+          "eyebrow": "NEW SEASON",
+          "title": "The new\nseason.",
+          "subtitle": "Refined silhouettes. Lasting presence.",
+          "buttonText": "Explore",
+          "collectionId": "gid://shopify/Collection/461272547550"
+        },
+        {
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0770/3068/6942/files/mw127_8.png?v=1782935578",
+          "eyebrow": "MISSWHENCE UAE",
+          "title": "Made to\nstand out.",
+          "subtitle": "Discover the new collection.",
+          "buttonText": "Discover",
+          "collectionId": "gid://shopify/Collection/461272547550"
+        },
+        {
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0770/3068/6942/files/M2-0424.jpg?v=1787815506",
+          "eyebrow": "SELECTED PIECES",
+          "title": "An elegant\neveryday.",
+          "subtitle": "Considered details. Effortless style.",
+          "buttonText": "View pieces",
+          "collectionId": "gid://shopify/Collection/461272547550"
+        }
+      ]
     },
     "selectedPieces": {
       "enabled": true,
@@ -903,19 +929,23 @@
     "categoryTiles": [
       {
         "title": "Dresses",
-        "collectionId": "gid://shopify/Collection/461272219870"
+        "collectionId": "gid://shopify/Collection/461272219870",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0770/3068/6942/files/v3135-lilac-plus-size-cotton-maxi-dress.png?v=1788963090"
       },
       {
         "title": "Shirts / Tunics",
-        "collectionId": "gid://shopify/Collection/461272285406"
+        "collectionId": "gid://shopify/Collection/461272285406",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0770/3068/6942/files/35025-beige-curved-seam-longline-tunic-front.jpg?v=1788964119"
       },
       {
         "title": "Skirts",
-        "collectionId": "gid://shopify/Collection/461272580318"
+        "collectionId": "gid://shopify/Collection/461272580318",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0770/3068/6942/files/MW_2132.jpg?v=1764755838"
       },
       {
         "title": "Suits",
-        "collectionId": "gid://shopify/Collection/461272514782"
+        "collectionId": "gid://shopify/Collection/461272514782",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0770/3068/6942/files/MW_0722.jpg?v=1764335907"
       }
     ],
     "saleItems": {
