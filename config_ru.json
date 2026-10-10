@@ -836,6 +836,7 @@
       "settings": [
         "wishlist",
         "notifications",
+        "language",
         "darkTheme",
         "order",
         "privacy",
