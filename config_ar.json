@@ -160,7 +160,10 @@
       "font": "Roboto",
       "layout": "header_text",
       "isBulk": null,
-      "isPreviewing": null
+      "isPreviewing": null,
+      "titleTranslations": {
+        "ru": "Категории"
+      }
     },
     {
       "type": "image",
@@ -254,7 +257,10 @@
           "featured": false,
           "showText": true,
           "description": "",
-          "productListAnimationConfig": null
+          "productListAnimationConfig": null,
+          "titleTranslations": {
+            "ru": "Тренчи"
+          }
         },
         {
           "originalColor": false,
@@ -389,7 +395,10 @@
       "font": "Roboto",
       "layout": "header_text",
       "isBulk": null,
-      "isPreviewing": null
+      "isPreviewing": null,
+      "titleTranslations": {
+        "ru": "Коллекции"
+      }
     },
     {
       "type": "image",
@@ -611,7 +620,10 @@
         "rotate": [],
         "minWidth": 0,
         "backgroundGradientColor": [],
-        "font": "Roboto"
+        "font": "Roboto",
+        "titleTranslations": {
+          "ru": "Избранные товары"
+        }
       },
       "parallax": false,
       "parallaxImageRatio": 1.2,
@@ -832,10 +844,10 @@
       "background": "https://raw.githubusercontent.com/xbasecode/mw-image/refs/heads/main/Adsız%20tasarım%20(34).png",
       "subGeneralSetting": {
         "privacy": {
-          "webUrl": "https://misswhenceae.com/pages/terms-and-conditions-of-sale"
+          "webUrl": "https://misswhenceae.com/ar/pages/terms-and-conditions-of-sale"
         },
         "about": {
-          "webUrl": "https://misswhenceae.com/pages/about-us"
+          "webUrl": "https://misswhenceae.com/ar/pages/about-us"
         }
       },
       "showBackground": true,
@@ -875,7 +887,8 @@
       "fontSize": 28,
       "showLine": true,
       "textTranslations": {
-        "ar": "تصاميم تترك أثرًا."
+        "ar": "تصاميم تترك أثرًا.",
+        "ru": "Созданы, чтобы производить впечатление."
       }
     },
     "hero": {
@@ -898,13 +911,16 @@
             "ar": "الموسم الجديد"
           },
           "titleTranslations": {
-            "ar": "الموسم\nالجديد."
+            "ar": "الموسم\nالجديد.",
+            "ru": "Новый\nсезон."
           },
           "subtitleTranslations": {
-            "ar": "قصّات أنيقة. حضور دائم."
+            "ar": "قصّات أنيقة. حضور دائم.",
+            "ru": "Изысканные силуэты. Незабываемый образ."
           },
           "buttonTextTranslations": {
-            "ar": "اكتشف"
+            "ar": "اكتشف",
+            "ru": "Смотреть"
           }
         },
         {
@@ -915,13 +931,16 @@
           "buttonText": "Discover",
           "collectionId": "gid://shopify/Collection/461272547550",
           "titleTranslations": {
-            "ar": "صُممت\nللتميّز."
+            "ar": "صُممت\nللتميّز.",
+            "ru": "Созданы\nблистать."
           },
           "subtitleTranslations": {
-            "ar": "اكتشف المجموعة الجديدة."
+            "ar": "اكتشف المجموعة الجديدة.",
+            "ru": "Откройте новую коллекцию."
           },
           "buttonTextTranslations": {
-            "ar": "اكتشف"
+            "ar": "اكتشف",
+            "ru": "Открыть"
           }
         },
         {
@@ -935,21 +954,26 @@
             "ar": "قطع مختارة"
           },
           "titleTranslations": {
-            "ar": "أناقة\nكل يوم."
+            "ar": "أناقة\nكل يوم.",
+            "ru": "Элегантность\nкаждый день."
           },
           "subtitleTranslations": {
-            "ar": "تفاصيل مدروسة. أناقة بلا تكلّف."
+            "ar": "تفاصيل مدروسة. أناقة بلا تكلّف.",
+            "ru": "Продуманные детали. Непринуждённый стиль."
           },
           "buttonTextTranslations": {
-            "ar": "عرض القطع"
+            "ar": "عرض القطع",
+            "ru": "Смотреть модели"
           }
         }
       ],
       "titleTranslations": {
-        "ar": "الموسم\nالجديد."
+        "ar": "الموسم\nالجديد.",
+        "ru": "Новый\nсезон."
       },
       "buttonTextTranslations": {
-        "ar": "اكتشف"
+        "ar": "اكتشف",
+        "ru": "Смотреть"
       }
     },
     "selectedPieces": {
@@ -960,7 +984,8 @@
       "poolSize": 200,
       "hideSoldOut": true,
       "titleTranslations": {
-        "ar": "قطع مختارة"
+        "ar": "قطع مختارة",
+        "ru": "Избранные модели"
       }
     },
     "newSeasonBanner": {
@@ -973,10 +998,12 @@
         "ar": "الموسم الجديد"
       },
       "subtitleTranslations": {
-        "ar": "اكتشف قطعًا أنيقة لكل لحظة."
+        "ar": "اكتشف قطعًا أنيقة لكل لحظة.",
+        "ru": "Изысканные модели для каждого момента."
       },
       "buttonTextTranslations": {
-        "ar": "اكتشف المجموعة"
+        "ar": "اكتشف المجموعة",
+        "ru": "Смотреть коллекцию"
       }
     },
     "categoryTitle": "Shop by category",
@@ -986,7 +1013,8 @@
         "collectionId": "gid://shopify/Collection/461272219870",
         "imageUrl": "https://cdn.shopify.com/s/files/1/0770/3068/6942/files/v3135-lilac-plus-size-cotton-maxi-dress.png?v=1788963090",
         "titleTranslations": {
-          "ar": "فساتين"
+          "ar": "فساتين",
+          "ru": "Платья"
         }
       },
       {
@@ -994,7 +1022,8 @@
         "collectionId": "gid://shopify/Collection/461272285406",
         "imageUrl": "https://cdn.shopify.com/s/files/1/0770/3068/6942/files/35025-beige-curved-seam-longline-tunic-front.jpg?v=1788964119",
         "titleTranslations": {
-          "ar": "قمصان / تونيكات"
+          "ar": "قمصان / تونيكات",
+          "ru": "Рубашки / Туники"
         }
       },
       {
@@ -1002,7 +1031,8 @@
         "collectionId": "gid://shopify/Collection/461272580318",
         "imageUrl": "https://cdn.shopify.com/s/files/1/0770/3068/6942/files/MW_2132.jpg?v=1764755838",
         "titleTranslations": {
-          "ar": "تنانير"
+          "ar": "تنانير",
+          "ru": "Юбки"
         }
       },
       {
@@ -1010,7 +1040,8 @@
         "collectionId": "gid://shopify/Collection/461272514782",
         "imageUrl": "https://cdn.shopify.com/s/files/1/0770/3068/6942/files/MW_0722.jpg?v=1764335907",
         "titleTranslations": {
-          "ar": "أطقم"
+          "ar": "أطقم",
+          "ru": "Костюмы"
         }
       }
     ],
@@ -1034,7 +1065,8 @@
           "ar": "مجموعة الصيف"
         },
         "subtitleTranslations": {
-          "ar": "إطلالات خفيفة لأيام أكثر إشراقًا."
+          "ar": "إطلالات خفيفة لأيام أكثر إشراقًا.",
+          "ru": "Лёгкие образы для солнечных дней."
         }
       },
       {
@@ -1045,7 +1077,8 @@
           "ar": "مجموعة الشتاء"
         },
         "subtitleTranslations": {
-          "ar": "قطع خالدة للمواسم الباردة."
+          "ar": "قطع خالدة للمواسم الباردة.",
+          "ru": "Вневременные модели для прохладных дней."
         }
       }
     ],
@@ -1054,41 +1087,47 @@
         "title": "Tops",
         "collectionId": "gid://shopify/Collection/461272318174",
         "titleTranslations": {
-          "ar": "قطع علوية"
+          "ar": "قطع علوية",
+          "ru": "Топы"
         }
       },
       {
         "title": "Bottoms",
         "collectionId": "gid://shopify/Collection/461272449246",
         "titleTranslations": {
-          "ar": "قطع سفلية"
+          "ar": "قطع سفلية",
+          "ru": "Брюки и юбки"
         }
       },
       {
         "title": "Coats / Jackets",
         "collectionId": "gid://shopify/Collection/461272613086",
         "titleTranslations": {
-          "ar": "معاطف / جاكيتات"
+          "ar": "معاطف / جاكيتات",
+          "ru": "Пальто / Куртки"
         }
       },
       {
         "title": "Plus Size",
         "collectionId": "gid://shopify/Collection/461272711390",
         "titleTranslations": {
-          "ar": "مقاسات كبيرة"
+          "ar": "مقاسات كبيرة",
+          "ru": "Большие размеры"
         }
       }
     ],
     "shop": {
       "allProductsCollectionId": "gid://shopify/Collection/460341215454",
-      "headerText": "FREE DELIVERY ACROSS THE UAE ✦ PAY IN 4 WITH TABBY",
+      "headerText": "تخفيضات الافتتاح: خصم يصل إلى 50% ✦ توصيل مجاني في جميع أنحاء الإمارات ✦ ادفع على 4 دفعات مع تابي",
       "headerTextTranslations": {
-        "ar": "توصيل مجاني في جميع أنحاء الإمارات ✦ ادفع على 4 دفعات مع تابي"
+        "ar": "تخفيضات الافتتاح: خصم يصل إلى 50% ✦ توصيل مجاني في جميع أنحاء الإمارات ✦ ادفع على 4 دفعات مع تابي",
+        "ru": "БЕСПЛАТНАЯ ДОСТАВКА ПО ОАЭ ✦ ОПЛАТА В 4 ЧАСТИ С TABBY"
       },
       "showUnavailableFilterNotice": false
     },
     "categoryTitleTranslations": {
-      "ar": "تسوّق حسب الفئة"
+      "ar": "تسوّق حسب الفئة",
+      "ru": "Категории"
     }
   }
 }

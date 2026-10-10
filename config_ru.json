@@ -139,7 +139,7 @@
       "enableBackground": false,
       "productType": true,
       "borderInput": false,
-      "title": "Categories",
+      "title": "Категории",
       "type": "static",
       "alignment": "centerLeft",
       "fontWeight": 400,
@@ -242,7 +242,7 @@
         {
           "originalColor": false,
           "backgroundColor": null,
-          "title": "Trench Coats",
+          "title": "Тренчи",
           "name": null,
           "keepDefaultTitle": false,
           "colors": null,
@@ -374,7 +374,7 @@
       "enableBackground": false,
       "productType": true,
       "borderInput": false,
-      "title": "Collections",
+      "title": "Коллекции",
       "type": "static",
       "alignment": "centerLeft",
       "fontWeight": 400,
@@ -602,7 +602,7 @@
         "enableBackground": false,
         "productType": true,
         "borderInput": false,
-        "title": "Selected Products",
+        "title": "Избранные товары",
         "type": "static",
         "alignment": "centerLeft",
         "fontWeight": 400,
@@ -675,8 +675,8 @@
     }
   ],
   "Setting": {
-    "FontFamily": "Lato",
-    "FontHeader": "Lato",
+    "FontFamily": "Arial",
+    "FontHeader": "Arial",
     "ProductListLayout": "list",
     "StickyHeader": true,
     "ShowChat": true,
@@ -772,7 +772,7 @@
       "layout": "home",
       "icon": "home",
       "fontFamily": "CupertinoIcons",
-      "label": "Home",
+      "label": "Главная",
       "pos": 100,
       "key": "m0f5o6har1"
     },
@@ -814,13 +814,13 @@
       "parallaxImageRatio": 1.2,
       "showSearch": true,
       "showQRCode": true,
-      "label": "Shop"
+      "label": "Каталог"
     },
     {
       "fontFamily": "MaterialIcons",
       "icon": "shopping_bag_sharp",
       "pos": 300,
-      "label": "Bag",
+      "label": "Корзина",
       "layout": "cart",
       "key": "hg5yjdcew1"
     },
@@ -844,15 +844,15 @@
       "background": "https://raw.githubusercontent.com/xbasecode/mw-image/refs/heads/main/Adsız%20tasarım%20(34).png",
       "subGeneralSetting": {
         "privacy": {
-          "webUrl": "https://misswhenceae.com/pages/terms-and-conditions-of-sale"
+          "webUrl": "https://misswhenceae.com/ru/pages/terms-and-conditions-of-sale"
         },
         "about": {
-          "webUrl": "https://misswhenceae.com/pages/about-us"
+          "webUrl": "https://misswhenceae.com/ru/pages/about-us"
         }
       },
       "showBackground": true,
       "styleItem": "listTile",
-      "label": "Account"
+      "label": "Аккаунт"
     }
   ],
   "AppBar": {},
@@ -882,7 +882,7 @@
     "brandColor": "#295236",
     "brandMessage": {
       "enabled": true,
-      "text": "Designed to leave an impression.",
+      "text": "Созданы, чтобы производить впечатление.",
       "caption": "MISSWHENCE UAE",
       "fontSize": 28,
       "showLine": true,
@@ -896,16 +896,16 @@
       "imageUrl": "https://cdn.shopify.com/s/files/1/0770/3068/6942/files/mw_3_de8e4b8b-e8dd-4d37-8e8e-203bf2184258.webp?v=1782927995",
       "monochrome": false,
       "eyebrow": "MISSWHENCE UAE",
-      "title": "The new\nseason.",
-      "buttonText": "Explore",
+      "title": "Новый\nсезон.",
+      "buttonText": "Смотреть",
       "collectionId": "gid://shopify/Collection/461272547550",
       "slides": [
         {
           "imageUrl": "https://cdn.shopify.com/s/files/1/0770/3068/6942/files/mw_3_de8e4b8b-e8dd-4d37-8e8e-203bf2184258.webp?v=1782927995",
           "eyebrow": "NEW SEASON",
-          "title": "The new\nseason.",
-          "subtitle": "Refined silhouettes. Lasting presence.",
-          "buttonText": "Explore",
+          "title": "Новый\nсезон.",
+          "subtitle": "Изысканные силуэты. Незабываемый образ.",
+          "buttonText": "Смотреть",
           "collectionId": "gid://shopify/Collection/461272547550",
           "eyebrowTranslations": {
             "ar": "الموسم الجديد"
@@ -926,9 +926,9 @@
         {
           "imageUrl": "https://cdn.shopify.com/s/files/1/0770/3068/6942/files/mw127_8.png?v=1782935578",
           "eyebrow": "MISSWHENCE UAE",
-          "title": "Made to\nstand out.",
-          "subtitle": "Discover the new collection.",
-          "buttonText": "Discover",
+          "title": "Созданы\nблистать.",
+          "subtitle": "Откройте новую коллекцию.",
+          "buttonText": "Открыть",
           "collectionId": "gid://shopify/Collection/461272547550",
           "titleTranslations": {
             "ar": "صُممت\nللتميّز.",
@@ -946,9 +946,9 @@
         {
           "imageUrl": "https://cdn.shopify.com/s/files/1/0770/3068/6942/files/M2-0424.jpg?v=1787815506",
           "eyebrow": "SELECTED PIECES",
-          "title": "An elegant\neveryday.",
-          "subtitle": "Considered details. Effortless style.",
-          "buttonText": "View pieces",
+          "title": "Элегантность\nкаждый день.",
+          "subtitle": "Продуманные детали. Непринуждённый стиль.",
+          "buttonText": "Смотреть модели",
           "collectionId": "gid://shopify/Collection/461272547550",
           "eyebrowTranslations": {
             "ar": "قطع مختارة"
@@ -978,7 +978,7 @@
     },
     "selectedPieces": {
       "enabled": true,
-      "title": "Selected pieces",
+      "title": "Избранные модели",
       "collectionId": "gid://shopify/Collection/461272547550",
       "count": 4,
       "poolSize": 200,
@@ -990,9 +990,9 @@
     },
     "newSeasonBanner": {
       "enabled": true,
-      "title": "New Season",
-      "subtitle": "Discover refined pieces for every moment.",
-      "buttonText": "Explore the collection",
+      "title": "Новый сезон",
+      "subtitle": "Изысканные модели для каждого момента.",
+      "buttonText": "Смотреть коллекцию",
       "collectionId": "gid://shopify/Collection/461272547550",
       "titleTranslations": {
         "ar": "الموسم الجديد",
@@ -1007,10 +1007,10 @@
         "ru": "Смотреть коллекцию"
       }
     },
-    "categoryTitle": "Shop by category",
+    "categoryTitle": "Категории",
     "categoryTiles": [
       {
-        "title": "Dresses",
+        "title": "Платья",
         "collectionId": "gid://shopify/Collection/461272219870",
         "imageUrl": "https://cdn.shopify.com/s/files/1/0770/3068/6942/files/v3135-lilac-plus-size-cotton-maxi-dress.png?v=1788963090",
         "titleTranslations": {
@@ -1019,7 +1019,7 @@
         }
       },
       {
-        "title": "Shirts / Tunics",
+        "title": "Рубашки / Туники",
         "collectionId": "gid://shopify/Collection/461272285406",
         "imageUrl": "https://cdn.shopify.com/s/files/1/0770/3068/6942/files/35025-beige-curved-seam-longline-tunic-front.jpg?v=1788964119",
         "titleTranslations": {
@@ -1028,7 +1028,7 @@
         }
       },
       {
-        "title": "Skirts",
+        "title": "Юбки",
         "collectionId": "gid://shopify/Collection/461272580318",
         "imageUrl": "https://cdn.shopify.com/s/files/1/0770/3068/6942/files/MW_2132.jpg?v=1764755838",
         "titleTranslations": {
@@ -1037,7 +1037,7 @@
         }
       },
       {
-        "title": "Suits",
+        "title": "Костюмы",
         "collectionId": "gid://shopify/Collection/461272514782",
         "imageUrl": "https://cdn.shopify.com/s/files/1/0770/3068/6942/files/MW_0722.jpg?v=1764335907",
         "titleTranslations": {
@@ -1048,7 +1048,7 @@
     ],
     "saleItems": {
       "enabled": true,
-      "title": "Sale Items",
+      "title": "Распродажа",
       "collectionId": "gid://shopify/Collection/461272416478",
       "count": 4,
       "poolSize": 200,
@@ -1060,8 +1060,8 @@
     },
     "seasonBanners": [
       {
-        "title": "Summer Collection",
-        "subtitle": "Light layers for brighter days.",
+        "title": "Летняя коллекция",
+        "subtitle": "Лёгкие образы для солнечных дней.",
         "collectionId": "gid://shopify/Collection/461913948382",
         "titleTranslations": {
           "ar": "مجموعة الصيف",
@@ -1073,8 +1073,8 @@
         }
       },
       {
-        "title": "Winter Collection",
-        "subtitle": "Timeless pieces for cooler seasons.",
+        "title": "Зимняя коллекция",
+        "subtitle": "Вневременные модели для прохладных дней.",
         "collectionId": "gid://shopify/Collection/461913981150",
         "titleTranslations": {
           "ar": "مجموعة الشتاء",
@@ -1088,7 +1088,7 @@
     ],
     "exploreLinks": [
       {
-        "title": "Tops",
+        "title": "Топы",
         "collectionId": "gid://shopify/Collection/461272318174",
         "titleTranslations": {
           "ar": "قطع علوية",
@@ -1096,7 +1096,7 @@
         }
       },
       {
-        "title": "Bottoms",
+        "title": "Брюки и юбки",
         "collectionId": "gid://shopify/Collection/461272449246",
         "titleTranslations": {
           "ar": "قطع سفلية",
@@ -1104,7 +1104,7 @@
         }
       },
       {
-        "title": "Coats / Jackets",
+        "title": "Пальто / Куртки",
         "collectionId": "gid://shopify/Collection/461272613086",
         "titleTranslations": {
           "ar": "معاطف / جاكيتات",
@@ -1112,7 +1112,7 @@
         }
       },
       {
-        "title": "Plus Size",
+        "title": "Большие размеры",
         "collectionId": "gid://shopify/Collection/461272711390",
         "titleTranslations": {
           "ar": "مقاسات كبيرة",
@@ -1122,7 +1122,7 @@
     ],
     "shop": {
       "allProductsCollectionId": "gid://shopify/Collection/460341215454",
-      "headerText": "OPENING SALE: UP TO 50% OFF ✦ FREE DELIVERY ACROSS THE UAE ✦ PAY IN 4 WITH TABBY",
+      "headerText": "РАСПРОДАЖА В ЧЕСТЬ ОТКРЫТИЯ: СКИДКИ ДО 50% ✦ БЕСПЛАТНАЯ ДОСТАВКА ПО ОАЭ ✦ ОПЛАТА В 4 ЧАСТИ С TABBY",
       "headerTextTranslations": {
         "ar": "تخفيضات الافتتاح: خصم يصل إلى 50% ✦ توصيل مجاني في جميع أنحاء الإمارات ✦ ادفع على 4 دفعات مع تابي",
         "ru": "РАСПРОДАЖА В ЧЕСТЬ ОТКРЫТИЯ: СКИДКИ ДО 50% ✦ БЕСПЛАТНАЯ ДОСТАВКА ПО ОАЭ ✦ ОПЛАТА В 4 ЧАСТИ С TABBY"
