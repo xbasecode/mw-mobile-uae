@@ -663,8 +663,8 @@
     }
   ],
   "Setting": {
-    "FontFamily": "Lato",
-    "FontHeader": "Lato",
+    "FontFamily": "Arial",
+    "FontHeader": "Arial",
     "ProductListLayout": "list",
     "StickyHeader": true,
     "ShowChat": true,
@@ -760,7 +760,7 @@
       "layout": "home",
       "icon": "home",
       "fontFamily": "CupertinoIcons",
-      "label": "Home",
+      "label": "الرئيسية",
       "pos": 100,
       "key": "m0f5o6har1"
     },
@@ -802,13 +802,13 @@
       "parallaxImageRatio": 1.2,
       "showSearch": true,
       "showQRCode": true,
-      "label": "Shop"
+      "label": "تسوّق"
     },
     {
       "fontFamily": "MaterialIcons",
       "icon": "shopping_bag_sharp",
       "pos": 300,
-      "label": "Bag",
+      "label": "حقيبة التسوق",
       "layout": "cart",
       "key": "hg5yjdcew1"
     },
@@ -840,7 +840,7 @@
       },
       "showBackground": true,
       "styleItem": "listTile",
-      "label": "Account"
+      "label": "حسابي"
     }
   ],
   "AppBar": {},
@@ -965,7 +965,7 @@
     },
     "newSeasonBanner": {
       "enabled": true,
-      "title": "New Season",
+      "title": "الموسم الجديد",
       "subtitle": "Discover refined pieces for every moment.",
       "buttonText": "Explore the collection",
       "collectionId": "gid://shopify/Collection/461272547550",
@@ -1016,7 +1016,7 @@
     ],
     "saleItems": {
       "enabled": true,
-      "title": "Sale Items",
+      "title": "التخفيضات",
       "collectionId": "gid://shopify/Collection/461272416478",
       "count": 4,
       "poolSize": 200,
@@ -1027,7 +1027,7 @@
     },
     "seasonBanners": [
       {
-        "title": "Summer Collection",
+        "title": "مجموعة الصيف",
         "subtitle": "Light layers for brighter days.",
         "collectionId": "gid://shopify/Collection/461913948382",
         "titleTranslations": {
@@ -1038,7 +1038,7 @@
         }
       },
       {
-        "title": "Winter Collection",
+        "title": "مجموعة الشتاء",
         "subtitle": "Timeless pieces for cooler seasons.",
         "collectionId": "gid://shopify/Collection/461913981150",
         "titleTranslations": {
